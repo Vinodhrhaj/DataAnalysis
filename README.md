@@ -16,17 +16,13 @@ Ran Regression with parameters likes/dislikes/comments as dependant variables an
 Filename:IRIS.ipynb,SVM_Implementation.ipynb,SVMs-Chap5.ipynb
 IRIS data - Species classification and Decision Boundary visualization using Plotly and classification algorithms Decision Tree, Random Forest, K Nearest Neighbor, SVM and Logistic
 
-Filename:
+Filename:Class_abridged.ipynb
 Bank Dataset- Implemented Linear regression to predict the Amount Spent by Customer based on Age, Sex, Salary and others
   
 House Sales Prediction: Implemented Polynomial Linear regression to predict the Median Sales Value of homes across multiple locations in USA. Used Ridge and Lasso for regularization
 
 Filename:Big data project_May5.ipynb
 House Sales Prediction: Uploaded California Housing data to AWS- S3 processed data using Apache PySpark in AWS-EMR, EC2 and used Machine Learning algorithms (Spark Mlib) to predict the Median Sales Value of homes with 90%accuracy.
-
-Extracted raw data from CSV files, cleansed it into tables and built databases using Apache – Hive.
-
-Utopia Vote Count - Created Mapper and Reducer functions in Java using Eclipse IDE, extracted input files in cloudera, processed, identified the candidate with maximum votes
 
 Filename : HR Analytics.ipynb
 To understand about employee satisfaction, employee retention and analyse the root cause of employee attrition 
