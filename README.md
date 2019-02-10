@@ -16,6 +16,7 @@ Ran Regression with parameters likes/dislikes/comments as dependant variables an
 Filename:IRIS.ipynb,SVM_Implementation.ipynb,SVMs-Chap5.ipynb
 IRIS data - Species classification and Decision Boundary visualization using Plotly and classification algorithms Decision Tree, Random Forest, K Nearest Neighbor, SVM and Logistic
 
+Filename:
 Bank Dataset- Implemented Linear regression to predict the Amount Spent by Customer based on Age, Sex, Salary and others
   
 House Sales Prediction: Implemented Polynomial Linear regression to predict the Median Sales Value of homes across multiple locations in USA. Used Ridge and Lasso for regularization
@@ -29,3 +30,11 @@ Utopia Vote Count - Created Mapper and Reducer functions in Java using Eclipse I
 
 Filename : HR Analytics.ipynb
 To understand about employee satisfaction, employee retention and analyse the root cause of employee attrition 
+
+Filename: Cricket_Batsman_Analyser.py
+Python programs using class,functions,lists, dictionaries to randomly predict runs scored by batsman in a game based on his previous performance.
+
+Filename: Retail_Sales_Analyser.py
+Python programs using class,functions,lists, dictionaries to analyse retail sales of a store
+
+
