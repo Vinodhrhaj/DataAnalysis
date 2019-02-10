@@ -18,6 +18,7 @@ Bank Dataset- Implemented Linear regression to predict the Amount Spent by Custo
 
 House Sales Prediction: Implemented Polynomial Linear regression to predict the Median Sales Value of homes across multiple locations in USA. Used Ridge and Lasso for regularization
 
+Filename:Big data project_May5.ipynb
 House Sales Prediction: Uploaded California Housing data to AWS- S3 processed data using Apache PySpark in AWS-EMR, EC2 and used Machine Learning algorithms (Spark Mlib) to predict the Median Sales Value of homes with 90%accuracy.
 
 Extracted raw data from CSV files, cleansed it into tables and built databases using Apache – Hive.
